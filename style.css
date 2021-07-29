@@ -1,0 +1,18 @@
+.bg-color{
+    background-color: #264653;
+}
+.blog-text p{
+   text-align: justify;
+}
+.bike img{
+  filter: grayscale(100%);
+}
+.diamond img{
+    width: 380px;
+    height: 345px;
+    border-radius: 100%;
+}
+
+.extra1 {
+  background-color: black
+}
